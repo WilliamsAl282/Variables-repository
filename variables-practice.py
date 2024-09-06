@@ -1,4 +1,4 @@
-# Student name
+# Alex Williams
 # 04 SEP 2024
 # Variables Practice
 
@@ -37,3 +37,9 @@
 # Use the print function to print your first name on your screen
 # Use the print function to print the name of the city you live in on your screen
 # Use the print function to print your age on your computer screen
+
+
+
+
+
+
