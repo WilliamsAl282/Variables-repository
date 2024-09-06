@@ -1,1 +1,1 @@
-p
+print(Greeting) = 'Good Morning'
