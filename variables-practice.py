@@ -20,10 +20,12 @@
 # Use the print function to print the value of one of three variables you created in Part 1
 school = 'Elk Rapids High School'
 favorite_singer = 'Kanye West'
+greeting = 'good day'
 
 
 print(school)
 print(favorite_singer)
+print(greeting)
 
 
 
@@ -33,7 +35,12 @@ print(favorite_singer)
 # Define a variable called book_price and assign it a value of 20.99 (a float/floating-point number)
 # Use the print function to print the value of one of three variables you created in Part 2
 my_age = 17
+conversion_factor = 2.54
+book_price = 20.99
+
 print(my_age)
+print(conversion_factor)
+print(book_price)
 
 
 
@@ -44,9 +51,7 @@ print(my_age)
 # Use the print function to print the name of the city you live in on your screen
 # Use the print function to print your age on your computer screen
 
-school = 'Career tech'
-favorite_singer = "Micheal Jackson"
-greeting = 'Good Morning'
+
 
 
 
