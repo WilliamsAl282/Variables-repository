@@ -39,7 +39,8 @@
 # Use the print function to print your age on your computer screen
 
 School = 'Career tech'
-
+favorite_singer = "Micheal Jackson"
+Greeting = 'Good Morning'
 
 
 
