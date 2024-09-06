@@ -38,6 +38,7 @@
 # Use the print function to print the name of the city you live in on your screen
 # Use the print function to print your age on your computer screen
 
+School = 'Career tech'
 
 
 
