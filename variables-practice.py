@@ -40,7 +40,7 @@
 
 School = 'Career tech'
 favorite_singer = "Micheal Jackson"
-print(Greeting) = 'Good Morning'
+Greeting = 'Good Morning'
 
 
 
